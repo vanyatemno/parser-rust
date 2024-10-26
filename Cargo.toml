@@ -1,0 +1,9 @@
+[package]
+name = "ivan-markhaichuk-parser"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "My simple parser for rust course in NaUKMA"
+
+[dependencies]
+peg = '0.8.4'
